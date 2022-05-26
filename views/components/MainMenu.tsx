@@ -247,7 +247,7 @@ export default function MainMenu() {
               </ListItemIcon>
               <ListItemText>Export as Army Forge File</ListItemText>
             </MenuItem>
-            {/* <MenuItem onClick={handleShareTTS}>Export as TTS File</MenuItem> */}
+            {<MenuItem onClick={handleShareTTS}>Export as TTS File</MenuItem>}
             <MenuItem onClick={handleTextExport}>
               <ListItemIcon>
                 <AssignmentOutlinedIcon sx={{ color: "#9E9E9E" }} />
