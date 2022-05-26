@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/armyBookSelection": "pages/armyBookSelection.js",
+  "/gameSystem": "pages/gameSystem.js",
+  "/": "pages/index.js",
+  "/list": "pages/list.js",
+  "/listConfiguration": "pages/listConfiguration.js",
+  "/load": "pages/load.js",
+  "/view": "pages/view.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
